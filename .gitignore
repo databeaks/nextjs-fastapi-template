@@ -42,6 +42,9 @@ build/*
 # vercel
 .vercel
 
+# vscode
+.vscode
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
